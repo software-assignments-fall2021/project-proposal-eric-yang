@@ -12,7 +12,7 @@ Allows users to quickly scan through cheapest sites and obtain the best prices w
 For online shoppers, with a general focus on those that try to optimize to find the best price. 
 
 ## How?
-Scrape prices from online retail sites (Amazon, Costco, Walmart, Etsy, Ebay, etc) and match identical goods, then rank them. Keep track of prices and fluctuations over time, display them to users with a link to where to buy. This is the Core Feature of the website. 
+Scrape prices from online retail sites (Amazon, Costco, Walmart, Etsy, Ebay, Target, Bestbuy, etc) and match identical goods, then rank them. Keep track of prices and fluctuations over time, display them to users with a link to where to buy. This is the Core Feature of the website. 
 
 Website can also be expanded upon to include user logins to allow for notifications when their favorited products have discounts, though this is not necessary for the website to function. 
 
